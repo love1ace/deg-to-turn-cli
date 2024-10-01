@@ -26,10 +26,6 @@ This will convert the degrees value `180°` to its turns equivalent and display 
 
 We welcome contributions to **deg-to-turn-cli**! Whether it's reporting a bug, suggesting an enhancement, or submitting a pull request, your input is valued.
 
-## Contributing
-
-We welcome contributions to **deg-to-turn-cli**! Whether it's reporting a bug, suggesting an enhancement, or submitting a pull request, your input is valued.
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.

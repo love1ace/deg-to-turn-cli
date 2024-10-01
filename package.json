@@ -1,0 +1,38 @@
+{
+  "name": "deg-to-turn-cli",
+  "version": "1.0.0",
+  "description": "deg to turn in cli",
+  "main": "index.js",
+  "license": "MIT",
+  "author": "love1ace",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/love1ace/deg-to-turn-cli.git"
+  },
+  "keywords": [
+    "deg",
+    "turn",
+    "converter",
+    "cli",
+    "front-end",
+    "back-end",
+    "love1ace"
+  ],
+  "bugs": {
+    "url": "https://github.com/love1ace/deg-to-turn-cli/issues"
+  },
+  "files": [
+    "index.js",
+    "README.md",
+    "LICENSE"
+  ],
+  "homepage": "https://github.com/love1ace/deg-to-turn-cli#readme",
+  "bin": {
+    "deg-to-turn-cli": "index.js"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  }
+}
